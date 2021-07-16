@@ -1,4 +1,7 @@
 # Big G Express: Predicting Derates
+
+*This project was for Nashville Software School to be completed as a group, however all notebooks in this project are mine.*
+
 In this project, you will be working with fault code data and vehicle onboard diagnostic data to try and predict an upcoming full derate. These are indicated by an SPN 5246. 
 
 You have been provided with a two files containing the data you will use to make these predictions (J1939Faults.csv and VehicleDiagnosticOnboardData.csv) as well as two files describing some of the contents (DataInfo.docx and Service Fault Codes_1_0_0_167.xlsx) 
